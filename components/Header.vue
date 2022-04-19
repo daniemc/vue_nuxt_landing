@@ -16,6 +16,7 @@
         elevation="2"
         rounded
         color="secondary"
+        class="black--text"
       >Join the waitlist</v-btn>
     </v-responsive>
   </v-container>

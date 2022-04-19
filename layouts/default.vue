@@ -7,9 +7,7 @@
       <Header />
     </v-app-bar>
     <v-main>
-      <v-container>
-
-      </v-container>
+      <Home />
     </v-main>
     <v-footer
       :absolute="!fixed"
@@ -22,9 +20,10 @@
 
 <script>
 import Header from "../components/Header.vue";
+import Home from "../pages/home.vue";
 export default {
     name: "DefaultLayout",
-    components: { Header },
+    components: { Header, Home },
     data() {
         return {
             fixed: false,
