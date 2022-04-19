@@ -54,6 +54,9 @@ export default {
       },
     },
     theme: {
+      options: {
+        customProperties: true,
+      },
       dark: true,
       themes: {
         dark: {
