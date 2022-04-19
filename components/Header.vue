@@ -40,6 +40,8 @@ import TradeSharingLogo from "./TradeSharingLogo.vue";
   }
 </script>
 
-<style lang="scss" scoped>
-
+<style>
+ .v-app-bar {
+   background-color: #000000 !important;
+ }
 </style>

@@ -35,3 +35,9 @@ export default {
     },
 }
 </script>
+
+<style>
+.v-application {
+    background-color: #000000 !important;
+}
+</style>

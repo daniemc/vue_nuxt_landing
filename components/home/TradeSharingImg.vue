@@ -2,7 +2,7 @@
   <img
     class="trade-sharing"
     alt="Logo"
-    src="/body_image.png"
+    src="/home/section1/body_image.png"
   >
 </template>
 
